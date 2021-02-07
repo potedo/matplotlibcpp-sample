@@ -10,3 +10,6 @@ matplotlib-cppをWSLにVSCodeからアクセスした場合に使用するため
 
 問題が無ければ「subplot.png」が生成される。
 動作確認ができたら、後はビルドしたいファイルに合わせてbuild.shや環境を編集。
+
+## License
+MIT LICENSEです。
