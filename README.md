@@ -4,7 +4,7 @@ matplotlib-cppをWSLにVSCodeからアクセスした場合に使用するため
 
 ## 使い方
 
-1. 「vscode-settings」の名前を「.vscode」に変更
+1. 「matplotlib-env/vscode-settings」の名前を「.vscode」に変更
 2. build.shをシェル上で実行
 3. 生成された「main」をシェル上で実行
 
